@@ -1,0 +1,1 @@
+This is an open source project found on github (requires developer experience to set up and configure). This website provides a little extra functionality to allow users to easily register and manage their own data sets. It helps fund the open source project, so thanks for signing up!
